@@ -1,7 +1,7 @@
-<h1>ArcHive</h1>
+<center><h1>ArcHive</h1></center>
 Program hiçbir kar amacı gütmemekte olup sadece içerik sağlayıcı olarak çalışacaktır.
-Members
-  ============
- -<br><b>kmlsygn01</b>
- +<b>kmlsygn01</b>
-  <br><b>foxtomoe</b>
+
+Üyeler
+============
+<b>Arch</b>
+<b>Foxtomoe</b>
