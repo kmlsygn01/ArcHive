@@ -1,6 +1,14 @@
 #EXTM3U
-#EXTINF:-1,TR: KANAL D HD ( 1080P )
-http://104.218.60.238:83/live/11111111/22222222/379047.m3u8
+#EXTINF:-1,TR:Discovery
+http://tv2iptv.com:8000/Faysal/faysal123/4155
+#EXTINF:-1,TR:DISCOVERY_SHOWCASE
+http://tv2iptv.com:8000/Faysal/faysal123/13042
+#EXTINF:-1,TR: National Geographic Turk
+http://tv2iptv.com:8000/Faysal/faysal123/4152
+#EXTINF:-1,TR: Nat Geo People HD
+http://tv2iptv.com:8000/Faysal/faysal123/4151
+#EXTINF:-1,TR: NatGeo Wild Turk
+http://tv2iptv.com:8000/Faysal/faysal123/4150
 #EXTINF:-1,TR: ------------------------
 http://
 #EXTINF:-1,Yavaş | NATIONAL GEOGRAPHIC
