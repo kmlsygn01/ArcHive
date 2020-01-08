@@ -1,4 +1,41 @@
 #EXTM3U
+
+#EXTINF:-1,|TR| DISCOVERY TURBO XTRA
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1275
+#EXTINF:-1,|TR| DiSCOVERY SCiENCE
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1276
+#EXTINF:-1,|TR| DiSCOVERY CHANNEL
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1277
+#EXTINF:-1,|TR| BBC EARTH
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1278
+#EXTINF:-1,|TR| ANiMAL PLANET
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1279
+#EXTINF:-1,|TR| NAT GEO PEOPLE
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1414
+#EXTINF:-1,|TR| NATIONAL GEO WiLD
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1335
+#EXTINF:-1,|TR| HiSTORY CHANNEL
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1336
+#EXTINF:-1,|TR| NATIONAL GEOGRAPHIC
+http://iptv6.premium-stv.com:25461/sourceturkiapro2/8684782188/1338
+#EXTINF:-1,-----------a0-------------
+http://
+#EXTINF:-1,TR: National Geographic Turk
+http://tv2iptv.com:8000/badr/badr1234/4152
+#EXTINF:-1,TR: Nat Geo People HD
+http://tv2iptv.com:8000/badr/badr1234/4151
+#EXTINF:-1,TR: NatGeo Wild Turk
+http://tv2iptv.com:8000/badr/badr1234/4150
+#EXTINF:-1,TR:Discovery
+http://tv2iptv.com:8000/badr/badr1234/4155
+#EXTINF:-1,TR:DISCOVERY_SHOWCASE
+http://tv2iptv.com:8000/badr/badr1234/13042
+#EXTINF:-1,TR: Discovery Science HD
+http://tv2iptv.com:8000/badr/badr1234/4154
+#EXTINF:-1,TR: History Channel HD
+http://tv2iptv.com:8000/badr/badr1234/4153
+#EXTINF:-1,-----------a1------------- > donuyo dedin
+http://
 #EXTINF:-1,TR:Discovery
 http://tv2iptv.com:8000/Faysal/faysal123/4155
 #EXTINF:-1,TR:DISCOVERY_SHOWCASE
@@ -9,7 +46,7 @@ http://tv2iptv.com:8000/Faysal/faysal123/4152
 http://tv2iptv.com:8000/Faysal/faysal123/4151
 #EXTINF:-1,TR: NatGeo Wild Turk
 http://tv2iptv.com:8000/Faysal/faysal123/4150
-#EXTINF:-1,TR: ------------------------
+#EXTINF:-1,-----------a2------------- > donuyo dedin
 http://
 #EXTINF:-1,TR:Nat.Geo.
 http://iptv.am000.tv:8000/11223355/11223355/4391
@@ -23,7 +60,7 @@ http://iptv.am000.tv:8000/11223355/11223355/4394
 http://iptv.am000.tv:8000/11223355/11223355/4395
 #EXTINF:-1,TR:Animal.Planet
 http://iptv.am000.tv:8000/11223355/11223355/4396
-#EXTINF:-1,TR: ------------------------
+#EXTINF:-1,-----------a3-------------
 http://
 #EXTINF:-1,Yavaş | NATIONAL GEOGRAPHIC
 http://213.152.172.67:25461/sourceturkiapro2/8684782188/1338
@@ -39,7 +76,7 @@ http://213.152.172.67:25461/sourceturkiapro2/8684782188/1345
 http://213.152.172.67:25461/sourceturkiapro2/8684782188/1349
 #EXTINF:-1,|TR| TVMIX SiNEMA 1
 http://213.152.172.67:25461/sourceturkiapro2/8684782188/1350
-#EXTINF:-1,TR: ------------------------
+#EXTINF:-1,-------------------------
 http://
 #EXTINF:-1,NETSERVER ANIMASYON 4
 http://213.152.172.67:25461/sourceturkiapro2/8684782188/1352
@@ -49,7 +86,7 @@ http://213.152.172.67:25461/sourceturkiapro2/8684782188/1353
 http://213.152.172.67:25461/sourceturkiapro2/8684782188/1354
 #EXTINF:-1, NETSERVER ANIMASYON 1
 http://213.152.172.67:25461/sourceturkiapro2/8684782188/1355
-#EXTINF:-1,TR: ------------------------
+#EXTINF:-1,-------------------------
 http://
 #EXTINF:-1,|TR| AKILLI TV
 http://213.152.172.67:25461/sourceturkiapro2/8684782188/1413
